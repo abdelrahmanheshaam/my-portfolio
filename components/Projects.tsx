@@ -65,6 +65,18 @@ const PROJECTS: Project[] = [
   },
   {
     id: '6',
+    title: 'AKS',
+    client: 'Aya',
+    category: 'Immersive Web',
+    image: 'https://products.city-donuts.com/wp-content/uploads/2026/06/Screenshot-2026-06-29-174118.png',
+    colors: ['#030753', '#020617', '#EEECE8'],
+    liveUrl: 'https://aks-agency.vercel.app/',
+    description: 'Defined a new standard for creative portfolios. Engineered a high-performance, design-centric environment where brand narrative meets seamless technical execution.',
+    details: 'Advanced particle systems with compute shaders. Narrative-driven UI built with Atomic Design principles.'
+  },
+  },
+  {
+    id: '7',
     title: 'Recruit CO',
     client: 'Aya',
     category: 'Immersive Web',
@@ -75,7 +87,7 @@ const PROJECTS: Project[] = [
     details: 'Advanced particle systems with compute shaders. Narrative-driven UI built with Atomic Design principles.'
   },
   {
-    id: '7',
+    id: '8',
     title: 'The AK Designs',
     client: 'Akram',
     category: 'E-commerce',
