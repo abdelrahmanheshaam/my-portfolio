@@ -74,7 +74,6 @@ const PROJECTS: Project[] = [
     description: 'Defined a new standard for creative portfolios. Engineered a high-performance, design-centric environment where brand narrative meets seamless technical execution.',
     details: 'Advanced particle systems with compute shaders. Narrative-driven UI built with Atomic Design principles.'
   },
-  },
   {
     id: '7',
     title: 'Recruit CO',
